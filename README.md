@@ -2,7 +2,7 @@
 
 This project is focused on analyzing the performance of a personal investment portfolio over a period of 5 years. By using historical stock data from Yahoo Finance, the project compares the portfolio's performance against major U.S. market indices such as the NASDAQ Composite, S&P 500, and Dow Jones Industrial Average.
 
-The analysis includes a variety of financial metrics, such as:
+The analysis includes a variety of financial metrics, such as
 - **Cumulative returns**: To see the overall growth of the portfolio over time.
 - **Volatility**: To measure the risk associated with the portfolio.
 - **Sharpe Ratio**: To determine the risk-adjusted return of the portfolio.
