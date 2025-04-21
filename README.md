@@ -3,7 +3,12 @@
 A data-driven mini project for analyzing the performance of a personal investment portfolio over 5 years, comparing it with major U.S. market indices (NASDAQ, S&P 500, and Dow Jones).  
 This project is built using Python in Google Colab with real financial datasets, leveraging core data analysis and visualization tools.
 
----
+The dataset used in this project is sourced from Kaggle. It contains detailed information about stock portfolios and market indices, which is essential for portfolio analysis and performance tracking.
+
+You can access the dataset here:
+
+[🌐 Kaggle Dataset: Stock Portfolio Data with Prices and Indices](https://www.kaggle.com/datasets/nikitamanaenkov/stock-portfolio-data-with-prices-and-indices/data)
+
 
 ## 🔍 Project Objectives
 
